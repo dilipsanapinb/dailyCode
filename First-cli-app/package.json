@@ -1,0 +1,14 @@
+{
+  "name": "first-cli-app",
+  "version": "1.0.0",
+  "description": "cli app using the node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Dilip Sanap",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
